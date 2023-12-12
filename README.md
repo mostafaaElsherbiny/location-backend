@@ -7,3 +7,4 @@
 
 
 #### npm run typeorm migration:generate -- -n SomeMigrationName
+check  locations.postman_collection.json for api calls
